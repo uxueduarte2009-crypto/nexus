@@ -20,3 +20,9 @@ h1:hover{
 body{
     background-image: url(../images/five\ night\ rojo.png);
 }
+li{
+    color: white;
+    width: 156px;
+    float: left;
+    list-style: none;
+}
