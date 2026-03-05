@@ -25,4 +25,6 @@ li{
     width: 156px;
     float: left;
     list-style: none;
+    text-align: center;
+    border: 2px solid blueviolet;
 }
