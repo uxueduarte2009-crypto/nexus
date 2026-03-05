@@ -20,6 +20,11 @@ h1:hover{
 body{
     background-image: url(../images/five\ night\ rojo.png);
 }
+ul{
+    margin: 10px auto;
+    width: 800px;
+    padding: 0;
+}
 li{
     color: white;
     width: 156px;
