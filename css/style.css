@@ -17,6 +17,11 @@ h1:hover{
     background-color: rgb(24, 10, 134);
     font-size: 350%;
 }
+h2{
+    color: white;
+    width: 800px;
+    text-align: center;
+}
 body{
     background-image: url(../images/five\ night\ rojo.png);
 }
@@ -33,4 +38,9 @@ li{
     text-align: center;
     border: 2px solid blueviolet;
     line-height: 50px;
+}
+div{
+    color:white;
+    width: 800px;
+    margin: 10px auto;
 }
