@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/fuego.jpg);
+    background-image: url(../images/camara.jpg);
     
 }
 h1{
@@ -10,7 +10,7 @@ h1{
     margin: 2% auto;
     border: 2px solid black;
     height: 50px;
-    line-height: 50px;
+    line-height: 60px;
     transition: 2s;
     border-radius: 50px;
       font-family: "Kumar One Outline", system-ui;
