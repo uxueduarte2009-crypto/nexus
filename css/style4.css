@@ -4,12 +4,12 @@ body{
 .ma{
     color: white;
     border: 2px solid blueviolet;
-    width: 20%;
+    width: 12%;
 }
 .me{
     color: white;
     border: 2px solid blueviolet;
-    width: 20%;
+    width: 22%;
 }
 h2{
     color: white;
@@ -17,6 +17,9 @@ h2{
 p{
     color: white;
 }
-ul{
-    color: white;
+.p{
+    color: rgb(176, 0, 138);
+}
+.n{
+    color: rgb(160, 0, 168);
 }
